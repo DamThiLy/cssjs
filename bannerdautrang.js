@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://canhodatxanhkhunamsg.blogspot.com/' target='_blank'><img src='http://http://webdatxanh.com/wp-content/uploads/2018/10/Vincity-c%C4%83n-h%E1%BB%99.jpeg' width='500px'/><br/>Dự án mới Quận 9 - Vincity</a>. Liên hệ: 0903 106 409. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://canhodatxanhkhunamsg.blogspot.com/' target='_blank'><img src='http://webdatxanh.com/wp-content/uploads/2018/10/Vincity-c%C4%83n-h%E1%BB%99.jpeg' width='500px'/><br/>Dự án mới Quận 9 - Vincity</a>. Liên hệ: 0903 106 409. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
